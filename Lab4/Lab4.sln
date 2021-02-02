@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingLibrary", "BingLibrary\BingLibrary.csproj", "{E784B345-D9A6-4B99-9D61-23D48B3BA19E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditLibrary", "RedditLibrary\RedditLibrary.csproj", "{6D51F195-5834-40B3-A84E-7C4E6DEC74BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "Lab4\Lab4.csproj", "{25CB7F63-C654-4D69-ADC0-B4999873E570}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{E3216378-AB78-40C5-986B-D4EEAC48E10A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginBaseLibrary", "PluginBaseLibrary\PluginBaseLibrary.csproj", "{995C8648-9A6E-441C-A967-CAA61F7E0612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalLibrary", "LocalLibrary\LocalLibrary.csproj", "{A61C94FB-FB2A-4142-A252-FDEACEBF354D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E784B345-D9A6-4B99-9D61-23D48B3BA19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E784B345-D9A6-4B99-9D61-23D48B3BA19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E784B345-D9A6-4B99-9D61-23D48B3BA19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E784B345-D9A6-4B99-9D61-23D48B3BA19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D51F195-5834-40B3-A84E-7C4E6DEC74BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D51F195-5834-40B3-A84E-7C4E6DEC74BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D51F195-5834-40B3-A84E-7C4E6DEC74BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D51F195-5834-40B3-A84E-7C4E6DEC74BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CB7F63-C654-4D69-ADC0-B4999873E570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CB7F63-C654-4D69-ADC0-B4999873E570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CB7F63-C654-4D69-ADC0-B4999873E570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CB7F63-C654-4D69-ADC0-B4999873E570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995C8648-9A6E-441C-A967-CAA61F7E0612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995C8648-9A6E-441C-A967-CAA61F7E0612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995C8648-9A6E-441C-A967-CAA61F7E0612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995C8648-9A6E-441C-A967-CAA61F7E0612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A61C94FB-FB2A-4142-A252-FDEACEBF354D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61C94FB-FB2A-4142-A252-FDEACEBF354D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61C94FB-FB2A-4142-A252-FDEACEBF354D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61C94FB-FB2A-4142-A252-FDEACEBF354D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E784B345-D9A6-4B99-9D61-23D48B3BA19E} = {E3216378-AB78-40C5-986B-D4EEAC48E10A}
+		{6D51F195-5834-40B3-A84E-7C4E6DEC74BB} = {E3216378-AB78-40C5-986B-D4EEAC48E10A}
+		{A61C94FB-FB2A-4142-A252-FDEACEBF354D} = {E3216378-AB78-40C5-986B-D4EEAC48E10A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A99B166A-69FE-4327-8853-21E333A2BFBA}
+	EndGlobalSection
+EndGlobal

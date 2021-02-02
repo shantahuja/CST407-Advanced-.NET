@@ -1,0 +1,9 @@
+C:\SF.Code\CST407 Advanced .Net\TermProject\PluginBaseLibrary\bin\Debug\PluginBase.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\PluginBaseLibrary\bin\Debug\PluginBase.pdb
+C:\SF.Code\CST407 Advanced .Net\TermProject\PluginBaseLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\PluginBaseLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\SF.Code\CST407 Advanced .Net\TermProject\PluginBaseLibrary\obj\Debug\PluginBaseLibrary.csprojAssemblyReference.cache
+C:\SF.Code\CST407 Advanced .Net\TermProject\PluginBaseLibrary\obj\Debug\PluginBaseLibrary.csproj.CoreCompileInputs.cache
+C:\SF.Code\CST407 Advanced .Net\TermProject\PluginBaseLibrary\obj\Debug\PluginBaseLibrary.csproj.CopyComplete
+C:\SF.Code\CST407 Advanced .Net\TermProject\PluginBaseLibrary\obj\Debug\PluginBase.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\PluginBaseLibrary\obj\Debug\PluginBase.pdb

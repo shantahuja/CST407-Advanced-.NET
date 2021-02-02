@@ -1,0 +1,27 @@
+[
+  {
+    "FontInfo": "Oswald",
+    "IsFavorite": true,
+    "Comment": null
+  },
+  {
+    "FontInfo": "Cambria Math",
+    "IsFavorite": false,
+    "Comment": "asdfasdfasfd"
+  },
+  {
+    "FontInfo": "Consolas",
+    "IsFavorite": false,
+    "Comment": "asdfasfdsafdsafdas"
+  },
+  {
+    "FontInfo": "Ink Free",
+    "IsFavorite": true,
+    "Comment": "asdfasdfsafdsa"
+  },
+  {
+    "FontInfo": "Microsoft Yi Baiti",
+    "IsFavorite": true,
+    "Comment": "asdfasdfsafdasfdas"
+  }
+]

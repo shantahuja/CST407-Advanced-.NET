@@ -1,0 +1,10 @@
+C:\SF.Code\CST407 Advanced .Net\TermProject\BingLibrary\bin\Debug\BingLibrary.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\BingLibrary\bin\Debug\BingLibrary.pdb
+C:\SF.Code\CST407 Advanced .Net\TermProject\BingLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\BingLibrary\bin\Debug\PluginBase.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\BingLibrary\bin\Debug\PluginBase.pdb
+C:\SF.Code\CST407 Advanced .Net\TermProject\BingLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\SF.Code\CST407 Advanced .Net\TermProject\BingLibrary\obj\Debug\BingLibrary.csproj.CoreCompileInputs.cache
+C:\SF.Code\CST407 Advanced .Net\TermProject\BingLibrary\obj\Debug\BingLibrary.csproj.CopyComplete
+C:\SF.Code\CST407 Advanced .Net\TermProject\BingLibrary\obj\Debug\BingLibrary.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\BingLibrary\obj\Debug\BingLibrary.pdb

@@ -1,0 +1,50 @@
+﻿<Window x:Class="Lab6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>    
+                <RowDefinition />
+                <RowDefinition Height="Auto"/>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="1">
+                <StackPanel Orientation="Vertical">
+                    <Button Click="Button_ClickGenerateKeyPair">
+                        generate private/public key pair
+                    </Button>
+                    <Button Click="Button_ClickUploadKeyPair">
+                        upload private/public key pair
+                    </Button>
+                    <Button Click="Button_ClickVerifyMissionDetails">
+                        Verify mission details
+                    </Button>
+                    <Button Click="Button_ClickUploadMissionDetails">
+                        Upload mission details
+                    </Button>
+                    <Label x:Name="EmployeeID">
+                        Employee ID
+                    </Label>
+                    <Label x:Name="DecryptedMessage">
+                        Decrypted Message
+                    </Label>
+                    <Label>
+                        <Label.Content >
+                            <AccessText TextWrapping="Wrap" Text="Mission Response" x:Name="MissionResponse" />
+                        </Label.Content>
+                    </Label>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

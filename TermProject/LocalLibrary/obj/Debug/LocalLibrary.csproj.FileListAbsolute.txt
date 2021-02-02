@@ -1,0 +1,11 @@
+C:\SF.Code\CST407 Advanced .Net\TermProject\LocalLibrary\bin\Debug\LocalLibrary.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\LocalLibrary\bin\Debug\LocalLibrary.pdb
+C:\SF.Code\CST407 Advanced .Net\TermProject\LocalLibrary\bin\Debug\PluginBase.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\LocalLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\LocalLibrary\bin\Debug\PluginBase.pdb
+C:\SF.Code\CST407 Advanced .Net\TermProject\LocalLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\SF.Code\CST407 Advanced .Net\TermProject\LocalLibrary\obj\Debug\LocalLibrary.csprojAssemblyReference.cache
+C:\SF.Code\CST407 Advanced .Net\TermProject\LocalLibrary\obj\Debug\LocalLibrary.csproj.CoreCompileInputs.cache
+C:\SF.Code\CST407 Advanced .Net\TermProject\LocalLibrary\obj\Debug\LocalLibrary.csproj.CopyComplete
+C:\SF.Code\CST407 Advanced .Net\TermProject\LocalLibrary\obj\Debug\LocalLibrary.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\LocalLibrary\obj\Debug\LocalLibrary.pdb

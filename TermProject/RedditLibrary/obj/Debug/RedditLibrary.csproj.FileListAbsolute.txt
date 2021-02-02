@@ -1,0 +1,11 @@
+C:\SF.Code\CST407 Advanced .Net\TermProject\RedditLibrary\bin\Debug\RedditLibrary.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\RedditLibrary\bin\Debug\RedditLibrary.pdb
+C:\SF.Code\CST407 Advanced .Net\TermProject\RedditLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\RedditLibrary\bin\Debug\PluginBase.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\RedditLibrary\bin\Debug\PluginBase.pdb
+C:\SF.Code\CST407 Advanced .Net\TermProject\RedditLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\SF.Code\CST407 Advanced .Net\TermProject\RedditLibrary\obj\Debug\RedditLibrary.csprojAssemblyReference.cache
+C:\SF.Code\CST407 Advanced .Net\TermProject\RedditLibrary\obj\Debug\RedditLibrary.csproj.CoreCompileInputs.cache
+C:\SF.Code\CST407 Advanced .Net\TermProject\RedditLibrary\obj\Debug\RedditLibrary.csproj.CopyComplete
+C:\SF.Code\CST407 Advanced .Net\TermProject\RedditLibrary\obj\Debug\RedditLibrary.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\RedditLibrary\obj\Debug\RedditLibrary.pdb

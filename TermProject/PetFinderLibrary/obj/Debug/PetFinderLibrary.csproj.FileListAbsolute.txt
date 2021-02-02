@@ -1,0 +1,11 @@
+C:\SF.Code\CST407 Advanced .Net\TermProject\PetFinderLibrary\bin\Debug\PetFinderLibrary.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\PetFinderLibrary\bin\Debug\PetFinderLibrary.pdb
+C:\SF.Code\CST407 Advanced .Net\TermProject\PetFinderLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\PetFinderLibrary\bin\Debug\PluginBase.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\PetFinderLibrary\bin\Debug\PluginBase.pdb
+C:\SF.Code\CST407 Advanced .Net\TermProject\PetFinderLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\SF.Code\CST407 Advanced .Net\TermProject\PetFinderLibrary\obj\Debug\PetFinderLibrary.csprojAssemblyReference.cache
+C:\SF.Code\CST407 Advanced .Net\TermProject\PetFinderLibrary\obj\Debug\PetFinderLibrary.csproj.CoreCompileInputs.cache
+C:\SF.Code\CST407 Advanced .Net\TermProject\PetFinderLibrary\obj\Debug\PetFinderLibrary.csproj.CopyComplete
+C:\SF.Code\CST407 Advanced .Net\TermProject\PetFinderLibrary\obj\Debug\PetFinderLibrary.dll
+C:\SF.Code\CST407 Advanced .Net\TermProject\PetFinderLibrary\obj\Debug\PetFinderLibrary.pdb

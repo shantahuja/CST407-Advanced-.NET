@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Lab2" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Lab2" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfFavoriteFont">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="FavoriteFont" nillable="true" type="tns:FavoriteFont" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfFavoriteFont" nillable="true" type="tns:ArrayOfFavoriteFont" />
+  <xs:complexType name="FavoriteFont">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Comment" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FontName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IsFavorite" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="FavoriteFont" nillable="true" type="tns:FavoriteFont" />
+</xs:schema>

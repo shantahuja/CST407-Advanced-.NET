@@ -1,0 +1,32 @@
+[
+  {
+    "IsFavorite": true,
+    "Comment": null,
+    "FontName": "Candara"
+  },
+  {
+    "IsFavorite": true,
+    "Comment": "adsfafdsfds",
+    "FontName": "Comic Sans MS"
+  },
+  {
+    "IsFavorite": false,
+    "Comment": "dfsaasfdas",
+    "FontName": "Consolas"
+  },
+  {
+    "IsFavorite": true,
+    "Comment": "asdfsafd",
+    "FontName": "Constantia"
+  },
+  {
+    "IsFavorite": true,
+    "Comment": "asdfasfdsa",
+    "FontName": "Courier New"
+  },
+  {
+    "IsFavorite": true,
+    "Comment": null,
+    "FontName": "Gabriola"
+  }
+]

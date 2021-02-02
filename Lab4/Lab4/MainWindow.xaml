@@ -1,0 +1,41 @@
+﻿<Window x:Class="Lab4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="listBoxPlugins" />
+        <ListBox x:Name="listBoxPhotos" Grid.Column="1" 
+                 ItemsSource="{Binding ElementName=listBoxPlugins,
+                                        Path=SelectedItem.Photos}"
+                  MouseDoubleClick="listBoxPhotos_MouseDoubleClick">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Image  Source="{Binding URL}" Height="100" Width="100"/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Grid Grid.Column="2">
+            <Grid>
+                <ListBox ItemsSource="{Binding ElementName=listBoxPhotos, Path=SelectedItem.Metadata}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel>
+                                <TextBlock Text="{Binding Title}" />
+                                <TextBlock Text="{Binding Description}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
